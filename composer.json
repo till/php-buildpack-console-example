@@ -1,0 +1,14 @@
+{
+    "name": "till/php-buildback-console-example",
+    "type": "project",
+    "require": {
+        "symfony/console": "^6.0"
+    },
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "till",
+            "email": "till@php.net"
+        }
+    ]
+}
